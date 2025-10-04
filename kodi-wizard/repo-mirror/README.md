@@ -212,7 +212,7 @@ The Pigeon Build Wizard automatically uses these self-hosted repositories.
 In `plugin.program.pigeonbuild/uservar.py`:
 
 ```python
-REPO_MIRROR_BASE = 'https://raw.githubusercontent.com/mz1312/pigeonhole/main/kodi-wizard/repo-mirror/repositories'
+REPO_MIRROR_BASE = 'https://raw.githubusercontent.com/thotsl4yer69/pigeonhole/main/kodi-wizard/repo-mirror/repositories'
 
 ADDON_REPOS = {
     'thecrew': {
@@ -402,7 +402,7 @@ If you find a new repository or updated URL:
 
 **Last Updated**: 2025-10-04
 **Maintained By**: Pigeon Build Team
-**Repository**: https://github.com/mz1312/pigeonhole
+**Repository**: https://github.com/thotsl4yer69/pigeonhole
 
 ---
 

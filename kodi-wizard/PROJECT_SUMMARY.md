@@ -154,7 +154,7 @@ A complete, custom Kodi wizard branded as **"Pigeon Build"** - optimized for Fir
 2. **Enable GitHub Pages:**
    - Go to repository settings
    - Enable Pages for `/kodi-wizard` folder
-   - Repository URL becomes: `https://raw.githubusercontent.com/mz1312/pigeonhole/main/kodi-wizard/repo/`
+   - Repository URL becomes: `https://raw.githubusercontent.com/thotsl4yer69/pigeonhole/main/kodi-wizard/repo/`
 
 3. **Create Actual Builds:**
    - Configure your ideal Kodi setup

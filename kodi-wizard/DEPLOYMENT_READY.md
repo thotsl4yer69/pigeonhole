@@ -166,7 +166,7 @@ git push origin v1.0.0
 
 ### 4. Create GitHub Release (Optional - For Build Files)
 
-1. Go to https://github.com/mz1312/pigeonhole/releases
+1. Go to https://github.com/thotsl4yer69/pigeonhole/releases
 2. Click "Draft a new release"
 3. Tag: `v1.0.0`
 4. Title: `Pigeon Build Wizard v1.0.0`
@@ -226,7 +226,7 @@ To enable full build installation, you need to:
    - Option C: Cloud storage (Dropbox, Google Drive)
 
 3. **Update URLs** (Already done in uservar.py)
-   - Currently points to: `https://github.com/mz1312/pigeonhole/releases/download/v1.0/`
+   - Currently points to: `https://github.com/thotsl4yer69/pigeonhole/releases/download/v1.0/`
    - Upload build ZIPs to this location
 
 **Build File Names:**
@@ -336,7 +336,7 @@ To enable full build installation, you need to:
 ### For Users:
 
 - **Installation Guide:** `INSTALLATION_GUIDE.md`
-- **GitHub Issues:** https://github.com/mz1312/pigeonhole/issues
+- **GitHub Issues:** https://github.com/thotsl4yer69/pigeonhole/issues
 - **Kodi Forum:** (Create thread when released)
 
 ### For Developers:

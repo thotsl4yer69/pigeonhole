@@ -177,7 +177,7 @@ For each add-on:
 ## 📞 Need Help?
 
 - Check the main README.md for detailed documentation
-- Report issues: https://github.com/mz1312/pigeonhole/issues
+- Report issues: https://github.com/thotsl4yer69/pigeonhole/issues
 - Video guide: [Coming Soon]
 
 ---

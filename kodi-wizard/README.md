@@ -232,8 +232,8 @@ GPL-3.0
 
 ## 📞 Support
 
-- **GitHub:** https://github.com/mz1312/pigeonhole
-- **Issues:** https://github.com/mz1312/pigeonhole/issues
+- **GitHub:** https://github.com/thotsl4yer69/pigeonhole
+- **Issues:** https://github.com/thotsl4yer69/pigeonhole/issues
 
 ---
 

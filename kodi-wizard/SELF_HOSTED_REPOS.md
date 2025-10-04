@@ -50,7 +50,7 @@ repo-mirror/
 
 ```python
 # Self-hosted on GitHub
-REPO_MIRROR_BASE = 'https://raw.githubusercontent.com/mz1312/pigeonhole/main/kodi-wizard/repo-mirror/repositories'
+REPO_MIRROR_BASE = 'https://raw.githubusercontent.com/thotsl4yer69/pigeonhole/main/kodi-wizard/repo-mirror/repositories'
 
 ADDON_REPOS = {
     'thecrew': {
@@ -66,7 +66,7 @@ ADDON_REPOS = {
 User clicks "Install The Crew"
     ↓
 Wizard downloads repository from:
-  https://raw.githubusercontent.com/mz1312/pigeonhole/main/.../repository.thecrew.zip
+  https://raw.githubusercontent.com/thotsl4yer69/pigeonhole/main/.../repository.thecrew.zip
   (YOUR GitHub - always available!)
     ↓
 Repository installs successfully
@@ -301,7 +301,7 @@ ls -l logs/
 ### Test Individual Repository
 
 ```bash
-curl -I https://raw.githubusercontent.com/mz1312/pigeonhole/main/kodi-wizard/repo-mirror/repositories/repository.thecrew.zip
+curl -I https://raw.githubusercontent.com/thotsl4yer69/pigeonhole/main/kodi-wizard/repo-mirror/repositories/repository.thecrew.zip
 ```
 
 Should return `HTTP/2 200 OK`
@@ -328,7 +328,7 @@ git status
 git push
 ```
 
-**Check GitHub repository**: https://github.com/mz1312/pigeonhole/tree/main/kodi-wizard/repo-mirror/repositories
+**Check GitHub repository**: https://github.com/thotsl4yer69/pigeonhole/tree/main/kodi-wizard/repo-mirror/repositories
 
 ### Welcome Popup Still Appearing
 

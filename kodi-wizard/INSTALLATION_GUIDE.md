@@ -369,8 +369,8 @@ Pre-configured complete Kodi setups:
 
 ### Getting Help
 
-- **GitHub Issues**: https://github.com/mz1312/pigeonhole/issues
-- **GitHub Repository**: https://github.com/mz1312/pigeonhole
+- **GitHub Issues**: https://github.com/thotsl4yer69/pigeonhole/issues
+- **GitHub Repository**: https://github.com/thotsl4yer69/pigeonhole
 
 ### Useful Links
 

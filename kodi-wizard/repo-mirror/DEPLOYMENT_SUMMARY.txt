@@ -46,7 +46,7 @@ MIRRORED REPOSITORIES
    - Addons: The Chains, The Gears, Jokers Absolution, Genocide, Coalition,
              Ghost, Homelander, Luffy, Zoro
    - Source: http://team-crew.github.io
-   - Mirror: https://raw.githubusercontent.com/mz1312/pigeonhole/main/
+   - Mirror: https://raw.githubusercontent.com/thotsl4yer69/pigeonhole/main/
              kodi-wizard/repo-mirror/repositories/repository.thecrew.zip
 
 2. The Loop Repository (420 KB)
@@ -173,7 +173,7 @@ View Update Logs:
   cat repo-mirror/logs/update_2025-10-04.log
 
 Test Repository Availability:
-  curl -I https://raw.githubusercontent.com/mz1312/pigeonhole/main/
+  curl -I https://raw.githubusercontent.com/thotsl4yer69/pigeonhole/main/
           kodi-wizard/repo-mirror/repositories/repository.thecrew.zip
 
 ================================================================================

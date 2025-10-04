@@ -104,7 +104,7 @@ BUILDS = [
 # Popular Add-on Repositories
 # Self-hosted on GitHub - updated daily from official sources
 # Base URL for self-hosted repositories
-REPO_MIRROR_BASE = 'https://raw.githubusercontent.com/mz1312/pigeonhole/main/kodi-wizard/repo-mirror/repositories'
+REPO_MIRROR_BASE = 'https://raw.githubusercontent.com/thotsl4yer69/pigeonhole/main/kodi-wizard/repo-mirror/repositories'
 
 ADDON_REPOS = {
     'thecrew': {

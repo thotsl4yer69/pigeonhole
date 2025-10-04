@@ -22,4 +22,4 @@ Welcome to Pigeon Build - optimized for Fire TV Stick streaming!
 
 [COLOR #7B2CBF]Pigeon Build - Delivering streams faster than a homing pigeon! 🐦[/COLOR]
 
-Support: https://github.com/mz1312/pigeonhole/issues
+Support: https://github.com/thotsl4yer69/pigeonhole/issues
