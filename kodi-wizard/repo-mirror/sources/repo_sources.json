@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-10-04",
+  "repositories": {
+    "thecrew": {
+      "name": "The Crew Repository",
+      "repo_id": "repository.thecrew",
+      "repo_url": "http://team-crew.github.io/repository.thecrew-0.3.8.zip",
+      "telegram_source": "The Crew Official",
+      "addons": [
+        "The Chains",
+        "The Gears",
+        "Jokers Absolution",
+        "Genocide",
+        "Coalition",
+        "Ghost",
+        "Homelander",
+        "Luffy",
+        "Zoro"
+      ],
+      "status": "active",
+      "last_checked": "2025-10-04",
+      "notes": "Main repository - very active"
+    },
+    "theloop": {
+      "name": "The Loop Repository",
+      "repo_id": "repository.loop",
+      "repo_url": "https://loopaddon.uk/theloop/repository.loop-3.0.4.zip",
+      "telegram_source": "The Loop Official",
+      "addons": [
+        "The Loop"
+      ],
+      "status": "active",
+      "last_checked": "2025-10-04",
+      "notes": "Live sports and events"
+    },
+    "umbrella": {
+      "name": "Umbrella Repository",
+      "repo_id": "repository.umbrella",
+      "repo_url": "https://umbrellaplug.github.io/repository.umbrella-2.2.6.zip",
+      "telegram_source": "Umbrella Official",
+      "addons": [
+        "Umbrella",
+        "FenLight"
+      ],
+      "status": "active",
+      "last_checked": "2025-10-04",
+      "notes": "Feature-rich, includes FenLight"
+    },
+    "seren": {
+      "name": "Seren Repository",
+      "repo_id": "repository.nixgates",
+      "repo_url": "https://nixgates.github.io/packages/repository.nixgates-2.2.0.zip",
+      "telegram_source": "Seren Official",
+      "addons": [
+        "Seren"
+      ],
+      "status": "active",
+      "last_checked": "2025-10-04",
+      "notes": "Premium debrid addon with Trakt"
+    },
+    "pov": {
+      "name": "POV Repository",
+      "repo_id": "repository.kodifitzwell",
+      "repo_url": "https://kodiyashimaru.github.io/repo/repository.kodifitzwell-0.0.1.zip",
+      "telegram_source": "POV Community",
+      "addons": [
+        "POV"
+      ],
+      "status": "active",
+      "last_checked": "2025-10-04",
+      "notes": "Ezra successor"
+    }
+  },
+  "forks": {
+    "chains_21": {
+      "name": "Chains 21 Fork",
+      "code": "900640",
+      "url": "https://aftv.news/900640",
+      "telegram_source": "The Crew One Clicks",
+      "notes": "One-click install for Chains addon"
+    },
+    "funs_21": {
+      "name": "Funs 21 Fork",
+      "code": "182785",
+      "url": "https://tinyurl.com/Funs21",
+      "telegram_source": "The Crew One Clicks",
+      "notes": "One-click install variant"
+    },
+    "chains_202": {
+      "name": "Chains 20.2 Fork",
+      "code": "794182",
+      "url": "https://tinyurl.com/Chains202",
+      "telegram_source": "The Crew One Clicks",
+      "notes": "Kodi 20.x compatible fork"
+    }
+  },
+  "telegram_channels": {
+    "crew_oneclick": "https://t.me/+3Sa1tUs9wbBiZGQ8"
+  }
+}

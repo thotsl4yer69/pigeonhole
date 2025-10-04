@@ -1,0 +1,27 @@
+[2025-10-04 23:39:26] ============================================================
+[2025-10-04 23:39:26] KODI REPOSITORY MIRROR - DOWNLOAD SESSION
+[2025-10-04 23:39:26] ============================================================
+[2025-10-04 23:39:26] Downloading The Crew Repository from http://team-crew.github.io/repository.thecrew-0.3.8.zip
+[2025-10-04 23:39:26] ✓ Downloaded The Crew Repository: 2,939,529 bytes
+[2025-10-04 23:39:26]   MD5: ed31bc053f585cb95a4cb0eced742ef5
+[2025-10-04 23:39:26] Downloading The Loop Repository from https://loopaddon.uk/theloop/repository.loop-3.0.4.zip
+[2025-10-04 23:39:27] ✓ Downloaded The Loop Repository: 429,643 bytes
+[2025-10-04 23:39:27]   MD5: 2445f34033fff81f22b737c6b1931313
+[2025-10-04 23:39:27] Downloading Umbrella Repository from https://umbrellaplug.github.io/repository.umbrella-2.2.6.zip
+[2025-10-04 23:39:27] ✓ Downloaded Umbrella Repository: 164,373 bytes
+[2025-10-04 23:39:27]   MD5: e1f976317658ebc2cf9831477963d7cb
+[2025-10-04 23:39:27] Downloading Seren Repository from https://nixgates.github.io/packages/repository.nixgates-2.2.0.zip
+[2025-10-04 23:39:27] ✓ Downloaded Seren Repository: 6,396 bytes
+[2025-10-04 23:39:27]   MD5: f43688e9eb54e765de35cbb30ce3b441
+[2025-10-04 23:39:27] Downloading POV Repository from https://kodiyashimaru.github.io/repo/repository.kodifitzwell-0.0.1.zip
+[2025-10-04 23:39:28] ✓ Downloaded POV Repository: 15,039 bytes
+[2025-10-04 23:39:28]   MD5: 32fba83428882fb554c52c0c4b02fcc4
+[2025-10-04 23:39:28] ============================================================
+[2025-10-04 23:39:28] SUMMARY: 5 successful, 0 failed
+[2025-10-04 23:39:28] ============================================================
+[2025-10-04 23:39:28] Checking for repository updates...
+[2025-10-04 23:39:28] No updates found
+[2025-10-04 23:39:28] Generated index.html with repository list
+[2025-10-04 23:39:28] 
+✓ All repositories downloaded successfully!
+[2025-10-04 23:39:28] Repository mirror ready at: /home/mz1312/projects/pigeonhole/kodi-wizard/repo-mirror

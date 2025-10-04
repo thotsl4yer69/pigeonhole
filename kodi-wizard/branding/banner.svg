@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="200" fill="#1a1a1a" rx="10"/>
+
+  <!-- Pigeon icon (simplified) -->
+  <circle cx="100" cy="100" r="60" fill="#7B2CBF"/>
+  <ellipse cx="100" cy="75" rx="35" ry="40" fill="#9D4EDD"/>
+  <circle cx="85" cy="70" r="8" fill="#E0AAFF"/>
+  <circle cx="88" cy="68" r="4" fill="#ffffff"/>
+  <ellipse cx="115" cy="85" rx="12" ry="18" fill="#10A5B5" opacity="0.7"/>
+
+  <!-- Text -->
+  <text x="220" y="115" font-family="Arial, sans-serif" font-size="72" font-weight="bold"
+        fill="#ffffff">PIGEON</text>
+  <text x="580" y="115" font-family="Arial, sans-serif" font-size="48"
+        fill="#10A5B5">BUILD</text>
+
+  <!-- Tagline -->
+  <text x="220" y="155" font-family="Arial, sans-serif" font-size="20"
+        fill="#C77DFF" opacity="0.8">Fast Streaming • Zero Buffer</text>
+</svg>

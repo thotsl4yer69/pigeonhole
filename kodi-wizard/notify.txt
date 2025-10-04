@@ -1,0 +1,25 @@
+[B][COLOR #10A5B5]Pigeon Build Wizard[/COLOR][/B]
+
+Welcome to Pigeon Build - optimized for Fire TV Stick streaming!
+
+[B]What's New in v1.0:[/B]
+• Advanced cache settings for Fire TV, Shield, and PC
+• One-click maintenance tools (clear cache, thumbnails, packages)
+• Full backup and restore functionality
+• Popular add-on quick install
+• Complete build installation support
+
+[B]Quick Start:[/B]
+1. Apply Advanced Settings for your device (Fire TV/Shield/PC)
+2. Install add-ons like The Crew or The Loop
+3. Run maintenance tools monthly for best performance
+
+[B]Pro Tips:[/B]
+• Use Real-Debrid for best quality and reliability
+• Apply advanced settings after fresh Kodi install
+• Create backups before installing builds
+• Clear cache weekly for optimal performance
+
+[COLOR #7B2CBF]Pigeon Build - Delivering streams faster than a homing pigeon! 🐦[/COLOR]
+
+Support: https://github.com/mz1312/pigeonhole/issues

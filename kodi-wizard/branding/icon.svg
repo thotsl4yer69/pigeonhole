@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#1a1a1a" rx="20"/>
+
+  <!-- Pigeon body (main circle) -->
+  <circle cx="256" cy="256" r="140" fill="#7B2CBF"/>
+
+  <!-- Pigeon head -->
+  <ellipse cx="256" cy="200" rx="80" ry="90" fill="#9D4EDD"/>
+
+  <!-- Eye highlight -->
+  <circle cx="220" cy="180" r="18" fill="#E0AAFF"/>
+  <circle cx="225" cy="175" r="8" fill="#ffffff"/>
+
+  <!-- Beak -->
+  <polygon points="180,185 155,195 180,205" fill="#10A5B5"/>
+
+  <!-- Wing -->
+  <ellipse cx="256" cy="280" rx="110" ry="70" fill="#C77DFF" opacity="0.9"/>
+
+  <!-- Iridescent accent on neck -->
+  <ellipse cx="280" cy="220" rx="25" ry="35" fill="#10A5B5" opacity="0.7"/>
+
+  <!-- Text: PIGEON -->
+  <text x="256" y="420" font-family="Arial, sans-serif" font-size="64" font-weight="bold"
+        text-anchor="middle" fill="#ffffff">PIGEON</text>
+
+  <!-- Text: BUILD -->
+  <text x="256" y="460" font-family="Arial, sans-serif" font-size="28"
+        text-anchor="middle" fill="#10A5B5">BUILD</text>
+</svg>

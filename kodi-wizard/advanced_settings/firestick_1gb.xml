@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advancedsettings>
+    <!-- Pigeon Build - Fire TV Stick 1GB Optimized Settings -->
+
+    <network>
+        <buffermode>1</buffermode>
+
+        <!-- Cache size: 78MB (75MB) for 1GB RAM device -->
+        <cachemembuffersize>78643200</cachemembuffersize>
+
+        <!-- Lower read buffer for limited RAM -->
+        <readbufferfactor>3.0</readbufferfactor>
+
+        <curlclienttimeout>30</curlclienttimeout>
+        <curllowspeedtime>20</curllowspeedtime>
+        <curlretries>2</curlretries>
+    </network>
+
+    <cache>
+        <memorysize>78643200</memorysize>
+    </cache>
+
+    <video>
+        <enablerssfeeds>false</enablerssfeeds>
+    </video>
+
+    <videolibrary>
+        <backgroundupdate>false</backgroundupdate>
+        <importwatchedstate>true</importwatchedstate>
+        <updateonstartup>false</updateonstartup>
+    </videolibrary>
+
+    <musiclibrary>
+        <backgroundupdate>false</backgroundupdate>
+    </musiclibrary>
+
+    <slideshow>
+        <displayeffects>none</displayeffects>
+    </slideshow>
+
+    <screensaver>
+        <mode>black</mode>
+    </screensaver>
+
+    <weatherdelay>600</weatherdelay>
+    <scrolldelay>0</scrolldelay>
+
+    <gui>
+        <algorithmdirtyregions>1</algorithmdirtyregions>
+        <visualizeaudioduringplayback>false</visualizeaudioduringplayback>
+    </gui>
+
+    <pvr>
+        <timecorrection>0</timecorrection>
+    </pvr>
+
+    <videodatabase>
+        <type>sqlite3</type>
+    </videodatabase>
+
+    <musicdatabase>
+        <type>sqlite3</type>
+    </musicdatabase>
+</advancedsettings>

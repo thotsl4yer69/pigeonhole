@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advancedsettings>
+    <!-- Pigeon Build - NVIDIA Shield 3GB Optimized Settings -->
+
+    <network>
+        <buffermode>1</buffermode>
+
+        <!-- Cache size: 262MB (250MB) for 3GB RAM device -->
+        <cachemembuffersize>262144000</cachemembuffersize>
+
+        <!-- Higher read buffer for better device -->
+        <readbufferfactor>5.0</readbufferfactor>
+
+        <curlclienttimeout>30</curlclienttimeout>
+        <curllowspeedtime>20</curllowspeedtime>
+        <curlretries>2</curlretries>
+    </network>
+
+    <cache>
+        <memorysize>262144000</memorysize>
+    </cache>
+
+    <video>
+        <enablerssfeeds>true</enablerssfeeds>
+    </video>
+
+    <videolibrary>
+        <backgroundupdate>true</backgroundupdate>
+        <importwatchedstate>true</importwatchedstate>
+        <updateonstartup>false</updateonstartup>
+    </videolibrary>
+
+    <musiclibrary>
+        <backgroundupdate>true</backgroundupdate>
+    </musiclibrary>
+
+    <slideshow>
+        <displayeffects>random</displayeffects>
+    </slideshow>
+
+    <weatherdelay>300</weatherdelay>
+    <scrolldelay>0</scrolldelay>
+
+    <gui>
+        <algorithmdirtyregions>3</algorithmdirtyregions>
+        <visualizeaudioduringplayback>true</visualizeaudioduringplayback>
+    </gui>
+
+    <videodatabase>
+        <type>sqlite3</type>
+    </videodatabase>
+
+    <musicdatabase>
+        <type>sqlite3</type>
+    </musicdatabase>
+</advancedsettings>

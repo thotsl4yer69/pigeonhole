@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advancedsettings>
+    <!-- Pigeon Build - Fire TV Stick 2GB/4K Optimized Settings -->
+
+    <network>
+        <!-- Buffer mode: 0=cache all internet filesystems, 1=cache all, 2=no cache -->
+        <buffermode>1</buffermode>
+
+        <!-- Cache size: 157MB (150MB) for 2GB RAM device -->
+        <cachemembuffersize>157286400</cachemembuffersize>
+
+        <!-- Read buffer factor: fill cache at 4x playback speed -->
+        <readbufferfactor>4.0</readbufferfactor>
+
+        <!-- Curl settings for better streaming -->
+        <curlclienttimeout>30</curlclienttimeout>
+        <curllowspeedtime>20</curllowspeedtime>
+        <curlretries>2</curlretries>
+    </network>
+
+    <cache>
+        <!-- Total cache size -->
+        <memorysize>157286400</memorysize>
+    </cache>
+
+    <video>
+        <!-- Disable RSS feeds to save resources -->
+        <enablerssfeeds>false</enablerssfeeds>
+    </video>
+
+    <videolibrary>
+        <!-- Disable background updates to save CPU -->
+        <backgroundupdate>false</backgroundupdate>
+
+        <!-- Import watched state from files -->
+        <importwatchedstate>true</importwatchedstate>
+
+        <!-- Update library on startup -->
+        <updateonstartup>false</updateonstartup>
+    </videolibrary>
+
+    <musiclibrary>
+        <!-- Disable background updates -->
+        <backgroundupdate>false</backgroundupdate>
+    </musiclibrary>
+
+    <slideshow>
+        <!-- Lower quality for faster slideshow -->
+        <displayeffects>none</displayeffects>
+    </slideshow>
+
+    <screensaver>
+        <!-- Reduce screensaver resource usage -->
+        <mode>black</mode>
+    </screensaver>
+
+    <weatherdelay>600</weatherdelay>
+
+    <!-- Faster scrolling -->
+    <scrolldelay>0</scrolldelay>
+
+    <!-- GUI settings for performance -->
+    <gui>
+        <!-- Reduce algorithm dirtyregions for better performance -->
+        <algorithmdirtyregions>1</algorithmdirtyregions>
+
+        <!-- Disable visualizations -->
+        <visualizeaudioduringplayback>false</visualizeaudioduringplayback>
+    </gui>
+
+    <pvr>
+        <!-- Disable PVR to save resources -->
+        <timecorrection>0</timecorrection>
+    </pvr>
+
+    <!-- Database settings -->
+    <videodatabase>
+        <type>sqlite3</type>
+    </videodatabase>
+
+    <musicdatabase>
+        <type>sqlite3</type>
+    </musicdatabase>
+</advancedsettings>
