@@ -1,0 +1,246 @@
+================================================================================
+    🐦 PIGEON BUILD - QUICK SETUP GUIDE
+================================================================================
+
+Congratulations! Your Pigeon Build is installed and ready.
+
+Follow these simple steps to start streaming in 5 minutes:
+
+================================================================================
+STEP 1: AUTHORIZE TRAKT (OPTIONAL - Recommended)
+================================================================================
+
+Trakt keeps track of what you watch across devices.
+
+For Each Addon (The Crew, The Loop, Umbrella):
+
+1. Open the addon (e.g., The Crew)
+2. Go to: Settings → Accounts → Trakt
+3. Click "Authorize Trakt"
+4. You'll see a code like: ABC-123-DEF
+5. On your phone/computer:
+   - Visit: https://trakt.tv/activate
+   - Enter the code shown on screen
+   - Click "Continue"
+6. Return to Kodi - it will say "Authorized!"
+
+Repeat for each addon you want to use.
+
+Time: 2 minutes per addon
+
+================================================================================
+STEP 2: ADD REAL-DEBRID (HIGHLY RECOMMENDED)
+================================================================================
+
+Real-Debrid gives you:
+✓ 1080p and 4K quality streams
+✓ Zero buffering
+✓ Instant playback
+✓ 50+ links per movie/show
+
+Cost: ~$3.50/month (worth every penny!)
+
+Setup:
+
+1. Get Real-Debrid account:
+   - Visit: https://real-debrid.com/
+   - Sign up (takes 2 minutes)
+   - Subscribe to premium (~$3.50/month)
+
+2. Get your API token:
+   - Go to: https://real-debrid.com/apitoken
+   - Copy the long code shown
+
+3. Add to each addon:
+
+   The Crew:
+   - Open The Crew
+   - Settings → Accounts → Real-Debrid
+   - Paste API token
+   - Test connection ✓
+
+   The Loop:
+   - Open The Loop
+   - Settings → Accounts → Real-Debrid
+   - Paste API token
+   - Test connection ✓
+
+   Umbrella:
+   - Open Umbrella
+   - Settings → Accounts → Debrid Services → Real-Debrid
+   - Paste API token
+   - Test connection ✓
+
+Time: 5 minutes total (one-time setup)
+
+================================================================================
+STEP 3: START STREAMING!
+================================================================================
+
+You're ready! Here's how to use your addons:
+
+THE CREW (Best for Movies & TV Shows):
+
+1. Open The Crew from Kodi home screen
+2. Go to Movies → Trending (or TV Shows)
+3. Select something to watch
+4. Wait 10-20 seconds (it's finding links)
+5. Links will appear (with Real-Debrid you'll see 50+)
+6. Select a link (1080p RD recommended)
+7. Enjoy! 🍿
+
+THE LOOP (Best for Live Sports):
+
+1. Open The Loop
+2. Select sport (Football, Basketball, etc.)
+3. Find your event
+4. Select stream
+5. Watch live! 🏈
+
+UMBRELLA (Alternative to The Crew):
+
+1. Open Umbrella
+2. Movies or TV Shows
+3. Browse and select
+4. Scrapes and plays
+5. Enjoy! 📺
+
+================================================================================
+ADVANCED SETTINGS (Already Applied)
+================================================================================
+
+Your build includes optimized settings for your device:
+
+✓ Cache optimized for smooth playback
+✓ Buffer settings configured
+✓ Network settings tuned
+✓ Playback settings optimized
+
+No additional configuration needed!
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+No Links Found:
+  → Make sure Real-Debrid is configured
+  → Check your internet connection
+  → Try a different movie/show
+
+Buffering:
+  → Use Real-Debrid (eliminates 99% of buffering)
+  → Select lower quality link (720p instead of 1080p)
+  → Check internet speed (need 15+ Mbps for 1080p)
+
+Addon Won't Open:
+  → Settings → Add-ons → My Add-ons → Video Add-ons
+  → Select addon → Enable
+
+Crashes:
+  → Settings → System → Advanced → Clear Cache
+  → Restart Kodi
+
+================================================================================
+PRO TIPS
+================================================================================
+
+1. Use Real-Debrid
+   → Seriously, it's a game-changer. Worth every penny.
+
+2. Authorize Trakt
+   → Keeps your watchlist synced across devices
+   → Resume where you left off
+   → Track your watched shows
+
+3. Clear Cache Weekly
+   → Pigeon Wizard → Maintenance → Clear Cache
+   → Keeps Kodi running smooth
+
+4. Update Addons Monthly
+   → Pigeon Wizard → Check for updates
+   → New features and bug fixes
+
+5. Create Backups
+   → Pigeon Wizard → Backup & Restore → Create Backup
+   → Save before major changes
+
+================================================================================
+ADDITIONAL SERVICES (OPTIONAL)
+================================================================================
+
+Premiumize:
+  → Alternative to Real-Debrid
+  → Setup similar to Real-Debrid
+  → https://premiumize.me/
+
+All-Debrid:
+  → Another debrid alternative
+  → Cheaper than Real-Debrid
+  → https://alldebrid.com/
+
+Trakt VIP:
+  → Advanced tracking features
+  → Recommendations
+  → $2.50/month
+  → https://trakt.tv/vip
+
+================================================================================
+SUPPORT & RESOURCES
+================================================================================
+
+Pigeon Build Wizard:
+  → Use for maintenance, backups, updates
+  → Access from Kodi → Add-ons → Program Add-ons
+
+GitHub Issues:
+  → https://github.com/thotsl4yer69/pigeonhole/issues
+  → Report bugs or request features
+
+Kodi Wiki:
+  → https://kodi.wiki/
+  → Official Kodi documentation
+
+Reddit Communities:
+  → /r/Addons4Kodi
+  → /r/FireStick
+  → Community support and tips
+
+================================================================================
+WHAT'S INCLUDED IN YOUR BUILD
+================================================================================
+
+Addons:
+  ✓ The Crew - Primary streaming addon
+  ✓ The Loop - Live sports and events
+  ✓ Umbrella - Alternative streaming addon
+  ✓ [Pro/Ultimate: Seren, POV]
+
+Tools:
+  ✓ Pigeon Build Wizard - Maintenance and management
+  ✓ Advanced settings - Already optimized
+  ✓ Repositories - Pre-installed for easy updates
+
+Settings:
+  ✓ Cache optimized for your device
+  ✓ Buffer settings configured
+  ✓ Playback settings tuned
+  ✓ Interface customized
+
+================================================================================
+ENJOY YOUR PIGEON BUILD!
+================================================================================
+
+You're all set up and ready to stream!
+
+Remember:
+  → Real-Debrid = Best streaming experience
+  → Trakt = Track your shows across devices
+  → Pigeon Wizard = Keep your system maintained
+
+Happy Streaming! 🐦
+
+================================================================================
+
+Pigeon Build v1.0 - Delivering streams faster than a homing pigeon!
+
+Support: https://github.com/thotsl4yer69/pigeonhole
